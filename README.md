@@ -1,0 +1,1 @@
+# Descrição do projeto base do curso de git
